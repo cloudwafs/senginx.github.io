@@ -1,6 +1,6 @@
 # https://cloudwaf.github.io
 https://www.freewaf.com  
-
+https://www.cloudwaf.cc  
 
 cloudwaf   by    http://www.secking.com      http://www.secking.com/sec/878/        
 The Next Generation Cloud WAF! For Virtual, Physical and Cloud
